@@ -1,0 +1,33 @@
+main {
+  min-height: calc(100vh - 150px);
+}
+
+h1 {
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+img {
+  max-height: 200px;
+}
+
+.card-with-scroll {
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+body {
+  background-image: url("https://images6.alphacoders.com/846/846724.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff !important;
+}
+
+footer {
+  background-color: #fff;
+  opacity: 0.5;
+}
